@@ -22,16 +22,14 @@ Oluşturduğumuz syntaxla yazılmış olan Asal Sayı Bulma programı:
 10. EGER asallik = 0 ISE YAZ "ASALDEGIL"
 11. BITIR
 
-
-----------------------------PROGRAM CEVABI------------------------------------------
+Program ->
 Konsol-> sayi  degerini giriniz.
 23
 Konsol-> ASAL
 Konsol-> Program sonu.
-
-------------------------------------------------------------------------------------
+----------------------------------------------------------
 DEĞİŞKENLER:
 sayi> 23
 sayac> 23
 asallik> 1
---------------------------- PROGRAM SONU--------------------------------------------
+

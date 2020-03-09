@@ -23,11 +23,13 @@ Oluşturduğumuz syntaxla yazılmış olan Asal Sayı Bulma programı:
 11. BITIR
 
 Konsol-> sayi  degerini giriniz.
+
 23
+
 Konsol-> ASAL
+
 Konsol-> Program sonu.
 
------------------------------------------------------------
 DEĞİŞKENLER:
 sayi> 23
 sayac> 23
